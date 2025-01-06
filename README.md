@@ -1,5 +1,5 @@
 # weather-app Link
-https://todo-project-xl54-dvf72jfm0-hassannasir1236s-projects.vercel.app/
+https://weather-app-gray-eta.vercel.app/
 
 ## Project setup
 ```
